@@ -1,6 +1,3 @@
 {
-    "build": {
-      "builder": "python"
-    },
     "start": "python complaint_bot.py"
-  }  
+}  
