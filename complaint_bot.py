@@ -1,4 +1,3 @@
-# complaint_bot.py
 from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message
 from aiogram.filters import Command
